@@ -1,0 +1,5 @@
+com\lz\usercenter\controller\TestController.class
+com\lz\usercenter\UserCenterApplication.class
+com\lz\usercenter\domain\entity\user\User.class
+com\lz\usercenter\service\UserService.class
+com\lz\usercenter\dao\user\UserMapper.class
